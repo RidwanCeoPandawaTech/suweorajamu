@@ -1,0 +1,6 @@
+klik url untuk masuk ke halaman admin = localhost/Kedai SoJamu/admin/
+
+PASSWORD ADMIN
+==============
+Username = admin
+Password = admin
